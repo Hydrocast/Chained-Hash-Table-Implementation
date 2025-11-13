@@ -44,9 +44,11 @@ This project demonstrates the design, implementation, and testing of a hash tabl
 
 1. Clone the repository:
 git clone https://github.com/Hydrocast/Chained-Hash-Map-Implementation.git
+
 2. cd ChainedHashMap
-3. Run the Python script:
-python3 chained_hash.py
+
+3. Run the Python script: python3 chained_hash.py
+
 4. Follow the interactive menu to:
 - Insert key-value pairs
 - Retrieve data
