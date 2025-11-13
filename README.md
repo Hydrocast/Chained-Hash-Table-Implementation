@@ -43,13 +43,11 @@ This project demonstrates the design, implementation, and testing of a hash tabl
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/Hydrocast/-Chained-Hash-Map-Implementation
-cd ChainedHashMap
-
-2. Run the Python script:
+git clone https://github.com/Hydrocast/Chained-Hash-Map-Implementation.git
+2. cd ChainedHashMap
+3. Run the Python script:
 python3 chained_hash.py
-
-3. Follow the interactive menu to:
+4. Follow the interactive menu to:
 - Insert key-value pairs
 - Retrieve data
 - Delete entries
@@ -70,3 +68,4 @@ Notes:
 - Test duplicate insertion updates
 - Edge cases (empty table operations, None values)
 - Interactive tests allow manual verification of the hash table's correctness.
+
