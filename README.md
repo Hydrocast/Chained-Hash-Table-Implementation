@@ -1,4 +1,4 @@
-# Chained Hash Map Implementation
+# Chained Hash Table Implementation
 
 **Author:** Giannis Loizou  
 **Description:** Custom implementation of a **chained hash table** (linked-list-based collision handling) with **dynamic rehashing** support.  
@@ -70,4 +70,5 @@ Notes:
 - Test duplicate insertion updates
 - Edge cases (empty table operations, None values)
 - Interactive tests allow manual verification of the hash table's correctness.
+
 
